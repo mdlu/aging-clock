@@ -12,3 +12,5 @@ Original .pkl Files and Processed RNASeq Subtissue Data (\GTEx_V8_RNASeq_subTiss
 Deconvolved Data (\data_to_Elvira): 
 - https://www.dropbox.com/sh/ua6m9n1trjg9aux/AAA4YJPZPZMt4IP6hW7fp5WBa?dl=0
 - Note that deconvolved data has cell expressions instead of genes-per-cell expression, is this even a better predictor?
+- Subtissue data only from the brain and the heart
+- Could be a way to train a multi tissue clock?
