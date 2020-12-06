@@ -1,0 +1,39 @@
+
+	mean_test_score	std_test_score 	param_verbose	param_max_iter	param_learning_rate_init	param_learning_rate		param_hidden_layer_sizes	param_alpha					\
+-15.891360 15	True	1200	0.0003	adaptive	(100,	10)	0.0001					5.447774	
+-16.916340 9	True	1200	0.003	adaptive	(100,	50)	0.0001					10.977960	
+-16.954675 28	True	1200	0.0001	adaptive	(50,	50,	50)	1e-08					2.799312	
+-18.276359 5	True	1200	1e-05	adaptive	(50,	50,	50)	1e-06					1.325434	
+-18.803579 25	True	1200	0.001	invscaling	(200,	100)	0.1					4.483208	
+-19.127876 20	True	1200	0.0001	invscaling	(100,	10)	1e-06					7.654685	
+-20.059420 17	True	1200	0.0003	invscaling	(100,	50)	0.1					1.410431	
+-20.478335 2	True	1200	0.003	adaptive	(200,	50)	0.0001					7.272668	
+-20.500543 22	True	1200	0.003	invscaling	(100,	50)	1e-06					5.293222	
+-20.923644 21	True	1200	0.001	adaptive	(200,	100)	0.01					2.849647	
+-22.116178 19	True	1200	0.001	invscaling	(200,	50)	0.01					3.564997	
+-23.642880 29	True	1200	1e-05	adaptive	(50,	50,	50)	0.01					9.791897	
+-24.087940 23	True	1200	0.0001	adaptive	(50,	10)	0.1					11.329471	
+-24.797150 0	True	1200	0.01	invscaling	(200,	100)	0.1					17.124705	
+-25.876264 18	True	1200	0.0003	adaptive	50	0.0001					9.079040	
+-25.947178 3	True	1200	0.0003	adaptive	(50,	10)	0.1					14.179943	
+-26.843386 6	True	1200	0.0001	invscaling	(100,	50)	1e-06					4.827577	
+-26.888051 27	True	1200	0.03	invscaling	(200,	100)	0.1					11.783989	
+-29.178704 11	True	1200	1e-05	adaptive	(100,	10)	1e-06					12.663276	
+-29.707600 1	True	1200	0.03	invscaling	50	0.0001					16.842183	
+-31.008613 7	True	1200	0.0003	adaptive	100	1e-08					10.229861	
+-32.073721 16	True	1200	0.0003	invscaling	50	0.1					10.605418	
+-34.467522 8	True	1200	1e-05	invscaling	(100,	50)	1e-08					6.230991	
+-34.498508 4	True	1200	0.0001	invscaling	(200,	50)	1e-06					6.530144	
+-37.933464 12	True	1200	0.01	invscaling	50	1e-08					12.837553	
+-41.969626 14	True	1200	0.01	invscaling	(50,	10)	1e-08					9.959696	
+-42.756834 10	True	1200	0.03	adaptive	(200,	50)	0.01					14.196186	
+-44.067185 13	True	1200	0.003	invscaling	50	0.1					17.656182	
+-80.212504 24	True	1200	0.1	adaptive	(200,	100)	1e-06					46.032263	
+-84.048100 26	True	1200	0.03	adaptive	(200,	100)	0.01					127.095377	
+
+{'verbose': True, 'max_iter': 1200, 'learning_rate_init': 0.0003, 'learning_rate': 'adaptive', 'hidden_layer_sizes': (100, 10), 'alpha': 0.0001}
+-15.891359581448086
+Finished training neural net
+Score:  -15.891359581448086
+Pearson r:  (0.7338327969318027, 5.431642793039912e-69)
+

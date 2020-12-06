@@ -1,0 +1,14 @@
+11  cd aging-clock/
+16  pip3 install rpy2
+17  conda
+18  conda init
+20  conda env list
+29  conda activate python3
+43  sudo apt-get install r-base
+39  jupyter nbconvert --to=python GTEx_clock.ipynb
+33  pip install pigar && pigar
+38  pip install -r requirements.txt
+31  pip install pyreadr seaborn sklearn
+32  jupyter nbconvert --to=notebook --inplace --ExecutePreprocessor.enabled=True GTEx_clock.ipynb
+45  history > setup.txt
+~
